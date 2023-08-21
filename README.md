@@ -2,10 +2,10 @@
 This is the [live Sweet Recipes](https://valerialeonh.github.io./odin-recipes_valerialeon/)
 ![sweet recipe page](assets/sweet_recipes.png)
 
-build with
+## build with
 -html
 
-Author
+## Author
 Valeria Leon Hung
 -Github: @ValeriaLeonH
 -Linkedin: Valeria Leon
