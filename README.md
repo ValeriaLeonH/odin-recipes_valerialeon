@@ -6,7 +6,7 @@ This is the [live Sweet Recipes](https://valerialeonh.github.io./odin-recipes_va
 -html
 
 ## Author
-Valeria Leon Hung
--Github: @ValeriaLeonH
+Valeria Leon Hung <br>
+-Github: @ValeriaLeonH <br>
 -Linkedin: Valeria Leon
 
