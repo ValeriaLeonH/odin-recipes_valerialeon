@@ -3,18 +3,19 @@ This is the [live Sweet Recipes](https://valerialeonh.github.io./odin-recipes_va
 ![sweet recipe page](assets/sweet_recipes.png)
 
 ## build with
--html
+- html
+- VSCode
 
 ## Author
-Valeria Leon Hung <br>
--Github: @ValeriaLeonH <br>
--Linkedin: Valeria Leon
+Valeria Leon Hung 
+- Github: [@ValeriaLeonH](https://github.com/ValeriaLeonH) 
+- Linkedin: [Valeria Leon](https://www.linkedin.com/in/valeria-leon-30960527a/)
 
 ## Getting Started
 
-1- Clone the repository
-2- Open the index.html in your browser
-3- Enjoy
+1. Clone the repository
+2. Open the index.html in your browser
+3. Enjoy
 
 ## Contributing
 
@@ -27,14 +28,14 @@ COntributions, issues and feature request are welcome!
 Give a ⭐️  if you like this project
 
 # Acknowledgments
--mi mom
--Teacher Aristides
--Google 
--Freepik
+- mi mom
+- Teacher Aristides
+- Google 
+- Freepik
 
 ## License
 
-This project is CC0-1.0 licensed.
+This project is [CC0-1.0](/LICENSE) licensed.
 
 
 
