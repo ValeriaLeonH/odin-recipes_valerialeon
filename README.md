@@ -19,7 +19,7 @@ Valeria Leon Hung
 
 ## Contributing
 
-COntributions, issues and feature request are welcome!
+Contributions, issues and feature request are welcome!
 
 [Issues](https://github.com/ValeriaLeonH/odin-recipes_valerialeon/issues)
 
@@ -29,7 +29,7 @@ Give a ⭐️  if you like this project
 
 # Acknowledgments
 - mi mom
-- Teacher Aristides
+- [Teacher Aristides](https://github.com/aristides1000)
 - Google 
 - Freepik
 
